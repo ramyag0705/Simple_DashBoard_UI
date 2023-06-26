@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="my_account">My Account</string>
+    <string name="inventory">Inventory</string>
+    <string name="search_mechanic">Search Mechanic</string>
+    <string name="request">Request</string>
+    <string name="analytics">Analytics</string>
+    <string name="contact_us">Contact us</string>
+
+    <string name="content_description">Profile Image</string>
+    <string name="dashboard_name">Dashboard</string>
+    <string name="last_date_update">Last Update 25 Feb 2020</string>
+</resources>
